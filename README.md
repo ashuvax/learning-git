@@ -8,5 +8,7 @@ Welcome in your git journey.
 Please use the following command to checkout on another branch
 
 ```
-git checkout 'existing-branch'
+git chefckout 'existing-branch'
+aaa
+BBB
 ```
